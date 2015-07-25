@@ -7,21 +7,10 @@ Quick usage: ./run.sh
 
 This code is structured as suggested by Insight team:
 
-  ├── README.md  
-  ├── run.sh  
-  ├── src  
-  │   └── count.cpp
-  ├── tweet-input  
-  │   └── tweets.txt  
-  └── tweet-output  
-      ├── ft1.txt  
-      └── ft2.txt  
-
 	├── README.md  
 	├── run.sh  
 	├── src  
-	│   ├── median_unique.py  
-	│   └── words_tweeted.py  
+	│   └── count.cpp  
 	├── tweet_input  
 	│   └── tweets.txt  
 	└── tweet_output  
