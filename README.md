@@ -3,7 +3,7 @@ Insight Data Engineering - Coding Challenge
 
 *Author*: Felipe Montefuscolo
 
-Fast usage: ./run.sh
+Quick usage: ./run.sh
 
 This code is structured as suggested by Insight team:
 
@@ -11,9 +11,9 @@ This code is structured as suggested by Insight team:
   ├── run.sh  
   ├── src  
   │   └── count.cpp
-  ├── tweet_input  
+  ├── tweet-input  
   │   └── tweets.txt  
-  └── tweet_output  
+  └── tweet-output  
       ├── ft1.txt  
       └── ft2.txt  
 
