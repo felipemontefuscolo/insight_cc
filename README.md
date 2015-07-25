@@ -1,8 +1,7 @@
 Insight Data Engineering - Coding Challenge
 ===========================================================
 
--Author: Felipe Montefuscolo
--Last Update: 07/25/2015
+*Author*: Felipe Montefuscolo
 
 Fast usage: ./run.sh
 
@@ -11,7 +10,7 @@ This code is structured as suggested by Insight team:
   ├── README.md  
   ├── run.sh  
   ├── src  
-  │   ├── count.cpp
+  │   └── count.cpp
   ├── tweet_input  
   │   └── tweets.txt  
   └── tweet_output  
